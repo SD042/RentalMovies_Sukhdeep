@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalMovies_Sukhdeep", "RentalMovies_Sukhdeep\RentalMovies_Sukhdeep.csproj", "{FF75B06F-A9CB-469A-B89F-7D058C4055EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject_Sukhdeep", "UnitTestProject_Sukhdeep\UnitTestProject_Sukhdeep.csproj", "{7D7782A8-E0AB-4CBA-9275-A2EA0822A8CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF75B06F-A9CB-469A-B89F-7D058C4055EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF75B06F-A9CB-469A-B89F-7D058C4055EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF75B06F-A9CB-469A-B89F-7D058C4055EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF75B06F-A9CB-469A-B89F-7D058C4055EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D7782A8-E0AB-4CBA-9275-A2EA0822A8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7782A8-E0AB-4CBA-9275-A2EA0822A8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7782A8-E0AB-4CBA-9275-A2EA0822A8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7782A8-E0AB-4CBA-9275-A2EA0822A8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7165D1A9-7D84-4CBE-A7D0-2D4EDD351693}
+	EndGlobalSection
+EndGlobal
