@@ -10,6 +10,7 @@ namespace UnitTestProject_Sukhdeep
         [TestMethod]
         public void TestMethod1()
         {
+            //Unit test code
             UnitTestSukhdeep ownCode = new UnitTestSukhdeep();
             var result = ownCode.Additions(5, 7);
             Assert.IsTrue(result == 12);
